@@ -1,0 +1,13 @@
+#hero-container{
+	background-image: url("../images/all_three_dogs.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position:center;
+	height: 600px;
+	
+	
+}
+
+#dog-row {
+	 padding: 20px;
+}

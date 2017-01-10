@@ -1,0 +1,1 @@
+We love dogs! This is a static web page celebrating our dogs.
